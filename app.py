@@ -31,13 +31,13 @@ st.markdown("""
     /* Clean white background */
     .main {
         font-family: 'Inter', sans-serif;
-        background: #ffffff;
+        background: #0000;
         color: #2c3e50;
         padding: 0;
     }
     
     .stApp {
-        background: #ffffff;
+        background: #0000;
     }
     
     /* Header Styles */
@@ -74,7 +74,7 @@ st.markdown("""
     
     /* Clean Card Design */
     .clean-card {
-        background: #ffffff;
+        background: #0000;
         border-radius: 16px;
         border: 1px solid #e8ecef;
         padding: 2rem;
@@ -103,7 +103,7 @@ st.markdown("""
     
     /* Enhanced Input Styling */
     .stSelectbox > div > div, .stNumberInput > div > div {
-        background: #ffffff;
+        background: #0000;
         border: 2px solid #e8ecef;
         border-radius: 12px;
         transition: all 0.3s ease;
@@ -173,7 +173,7 @@ st.markdown("""
     
     /* Enhanced Metrics */
     .metric-card {
-        background: linear-gradient(135deg, #ffffff, #f8f9fa);
+        background: linear-gradient(135deg, aqua, pink);
         border-radius: 16px;
         padding: 1.5rem;
         text-align: center;
@@ -367,7 +367,7 @@ st.markdown("""
     .loading-container {
         text-align: center;
         padding: 3rem;
-        background: #ffffff;
+        background: #0000;
         border-radius: 16px;
         border: 1px solid #e8ecef;
         margin: 2rem 0;
@@ -427,7 +427,7 @@ st.markdown("""
     }
     
     .stTabs [data-baseweb="tab"]:hover {
-        background: #ffffff;
+        background: #0000;
         color: #2c3e50;
     }
     
@@ -458,7 +458,7 @@ st.markdown("""
     
     /* Chart Container */
     .chart-container {
-        background: #ffffff;
+        background: #0000;
         border-radius: 16px;
         padding: 1.5rem;
         border: 1px solid #e8ecef;
